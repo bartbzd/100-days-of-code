@@ -320,6 +320,17 @@ The next example asks to output prime numbers that I think will call for the nee
 
 ### Day 25: August 19th, 2021
 
+**Today's Progress:** Learn about TDD (Test Driven Development) and installed Jest using nvm before completing the first assignment.
+
+**Thoughts:** Had some fun installing nvm, Node and Jest for some exercises that I'll be working through over the next few days/weeks. I got to use the terminal again to set things up and got to see how Jest works for testing your JavaScript code via the first exercise in the helloWorld folder.
+
+**Links:** <br>
+[JavaScript exercises](https://github.com/TheOdinProject/javascript-exercises) <br>
+
+---
+
+### Day 25: August 19th, 2021
+
 **Today's Progress:**
 
 **Thoughts:**
