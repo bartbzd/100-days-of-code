@@ -325,11 +325,22 @@ The next example asks to output prime numbers that I think will call for the nee
 **Thoughts:** Had some fun installing nvm, Node and Jest for some exercises that I'll be working through over the next few days/weeks. I got to use the terminal again to set things up and got to see how Jest works for testing your JavaScript code via the first exercise in the helloWorld folder.
 
 **Links:** <br>
-[JavaScript exercises](https://github.com/TheOdinProject/javascript-exercises) <br>
+[Exercise 1](https://github.com/bartbzd/javascript-exercises/tree/main/01_helloWorld) <br>
 
 ---
 
-### Day 25: August 19th, 2021
+### Day 26: August 20th, 2021
+
+**Today's Progress:** Worked on the second javascript exercise from The Odin Project and pass Jest tests.
+
+**Thoughts:** The second exercise involved creating a function to repeat a string X times and getting all seven tests to pass with Jest. I had to review previous material to understand that I had to create a variable inside of the function, an empty string, to use with the addition assignment (+=) and capture the argument string, returning it X times while inside of my loop. I had fun with this one!
+
+**Links:** <br>
+[Exercise 2](https://github.com/bartbzd/javascript-exercises/tree/main/02_repeatString) <br>
+
+---
+
+### Day 27: August 21th, 2021
 
 **Today's Progress:**
 
