@@ -331,7 +331,7 @@ The next example asks to output prime numbers that I think will call for the nee
 
 ### Day 26: August 20th, 2021
 
-**Today's Progress:** Worked on the second javascript exercise from The Odin Project and pass Jest tests.
+**Today's Progress:** Worked on the second javascript exercise from The Odin Project and passed Jest tests.
 
 **Thoughts:** The second exercise involved creating a function to repeat a string X times and getting all seven tests to pass with Jest. I had to review previous material to understand that I had to create a variable inside of the function, an empty string, to use with the addition assignment (+=) and capture the argument string, returning it X times while inside of my loop. I had fun with this one!
 
@@ -341,6 +341,17 @@ The next example asks to output prime numbers that I think will call for the nee
 ---
 
 ### Day 27: August 21th, 2021
+
+**Today's Progress:** Worked on the third javascript exercise from The Odin Project and passed Jest tests.
+
+**Thoughts:** The third exercise involved creating a function to reverse a string, from single letter to multiple letters to numbers/punctuation and empty strings, and getting all seven tests to pass with Jest. I had to combine three string methods, split() to turn string into an array, reverse() to reverse the array and join() to rejoin together the reversed array back into a string. A rather simple function, but happy that I got it to work two different ways.
+
+**Links:** <br>
+[Exercise 3](https://github.com/bartbzd/javascript-exercises/tree/main/03_reverseString) <br>
+
+---
+
+### Day 28: August 22th, 2021
 
 **Today's Progress:**
 
