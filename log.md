@@ -355,14 +355,25 @@ The next example asks to output prime numbers that I think will call for the nee
 
 **Today's Progress:** Worked on the fourth javascript exercise from The Odin Project and passed first Jest test.
 
-**Thoughts:** The fourth exercise involves creating a function to remove an argument from array, several different ways. The first of which asked to remove a single argumentfrom the array, which I was able to pass, but it looks like the second and incoming tests are much harder from my perspective. The hint mentions looking at Array.from or spread operator, which I'll have to review tomorrow, but I can already tell the second test will prove to be much more challenging, possibly even re-working my original function that passed the first Jest test.
+**Thoughts:** The fourth exercise involves creating a function to remove an argument from array, several different ways. The first of which asked to remove a single argument from the array, which I was able to pass, but it looks like the second and incoming tests are much harder from my perspective. The hint mentions looking at Array.from or spread operator, which I'll have to review tomorrow, but I can already tell the second test will prove to be much more challenging, possibly even re-working my original function that passed the first Jest test.
 
 **Links:** <br>
 [Exercise 4](https://github.com/bartbzd/javascript-exercises/tree/main/04_removeFromArray) <br>
 
 ---
 
-### Day 28: August 22th, 2021
+### Day 29: August 24th, 2021
+
+**Today's Progress:** Worked on the fourth javascript exercise from The Odin Project and passed all Jest tests.
+
+**Thoughts:** The fourth exercise involved writing a function to remove an argument from array, several different ways, from a single value to multiple values, to ignoring nonpresent values, etc. This was to date, one of the hardest things I had to write and think about over and over as I was trying to wrap my head around the different moving parts. After researching indexOf() and slice(), I was able to put it together, but I do very much plan on returning to this problem in the future to review what exactly I did to ensure I absorb what I learned.
+
+**Links:** <br>
+[Exercise 4](https://github.com/bartbzd/javascript-exercises/tree/main/04_removeFromArray) <br>
+
+---
+
+### Day 30: August 25th, 2021
 
 **Today's Progress:**
 
