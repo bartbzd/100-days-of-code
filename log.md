@@ -364,7 +364,7 @@ The next example asks to output prime numbers that I think will call for the nee
 
 ### Day 29: August 24th, 2021
 
-**Today's Progress:** Worked on the fourth javascript exercise from The Odin Project and passed all Jest tests.
+**Today's Progress:** Worked on the fourth JavaScript exercise from The Odin Project and passed all Jest tests.
 
 **Thoughts:** The fourth exercise involved writing a function to remove an argument from array, several different ways, from a single value to multiple values, to ignoring nonpresent values, etc. This was to date, one of the hardest things I had to write and think about over and over as I was trying to wrap my head around the different moving parts. After researching indexOf() and slice(), I was able to put it together, but I do very much plan on returning to this problem in the future to review what exactly I did to ensure I absorb what I learned.
 
@@ -373,7 +373,44 @@ The next example asks to output prime numbers that I think will call for the nee
 
 ---
 
-### Day 30: August 25th, 2021
+### Day 30: August 26th, 2021
+
+**Today's Progress:** Worked on fifth JavaScript from The Odin Project and passed all Jest tests.
+
+**Thoughts:** The fifth exercise involved writing a function that takes 2 integers and returns the sum of every number betweem (and including) them. I got a handle on writing this function rather quickly and am happy with the result. It tested my knowledge of loops, function scope and writing IF statements to get my desired result. Coming from the removeFromArray exercise, I thought this was going to take me longer as they increase in difficulty, but I was able to pass all Jest tests with ease.
+
+THe last few tests wanted me to return an ERROR if an array argument was passed as a parameter or if a string was passed in the function. Originally, I coded to check for both before stumbling on isNaN(), which let me reduce my code and check specifically for a Number value.
+
+**Links:** <br>
+[Exercise 5](https://github.com/bartbzd/javascript-exercises/blob/main/05_sumAll/sumAll.js) <br>
+
+---
+
+### Day 31: August 26th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 32: August 26th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 33: August 26th, 2021
 
 **Today's Progress:**
 
