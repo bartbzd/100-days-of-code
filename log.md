@@ -375,7 +375,7 @@ The next example asks to output prime numbers that I think will call for the nee
 
 ### Day 30: August 26th, 2021
 
-**Today's Progress:** Worked on fifth JavaScript from The Odin Project and passed all Jest tests.
+**Today's Progress:** Worked on fifth JavaScript exercise from The Odin Project and passed all Jest tests.
 
 **Thoughts:** The fifth exercise involved writing a function that takes 2 integers and returns the sum of every number betweem (and including) them. I got a handle on writing this function rather quickly and am happy with the result. It tested my knowledge of loops, function scope and writing IF statements to get my desired result. Coming from the removeFromArray exercise, I thought this was going to take me longer as they increase in difficulty, but I was able to pass all Jest tests with ease.
 
@@ -386,7 +386,18 @@ THe last few tests wanted me to return an ERROR if an array argument was passed 
 
 ---
 
-### Day 31: August 26th, 2021
+### Day 31: August 29th, 2021
+
+**Today's Progress:** Worked on sixth JavaScript exercise from The Odin Project and passed all Jest tests.
+
+**Thoughts:** Finished writing a function that checks to see if a year is a leap year. I wrote this one rather quickly and still was able to pass all Jest tests, which I was glad to pass so quickly. It seemed rather simpler than the previous two problems, but I was happy to exercise my skills and get working results. It tests for and works with all previous and future years, returning true or false depending on if a year is a leap year. One more exercise and we move onto DOM manipulation!
+
+**Links:** <br>
+[Exercise 6](https://github.com/bartbzd/javascript-exercises/blob/main/06_leapYears/leapYears.js) <br>
+
+---
+
+### Day 32: August 30th, 2021
 
 **Today's Progress:**
 
@@ -398,19 +409,7 @@ THe last few tests wanted me to return an ERROR if an array argument was passed 
 
 ---
 
-### Day 32: August 26th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
-
----
-
-### Day 33: August 26th, 2021
+### Day 33: August 31th, 2021
 
 **Today's Progress:**
 
