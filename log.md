@@ -399,13 +399,14 @@ THe last few tests wanted me to return an ERROR if an array argument was passed 
 
 ### Day 32: August 30th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Worked on seventh JavaScript exercise from The Odin Project and passed all Jest tests.
 
-**Thoughts:**
+**Thoughts:** Finished writing two functions that convert Celsius to Farhenheit and vice versa. After researching the formulae involved in converting both numbers, it was just a matter of putting together the functions to output the corresponding conversions. I felt like this one was simple, if not simpler, than the leap year function I wrote a day prior, but I'm glad it didn't take long.
+
+At first, I declared variables for the conversions involved within each function, and it passed all Jest tests, but after looking at the supplied solutions, it didn't need to be there, so I reworked my return lines and incorporated the formulas directly in before rounding to the nearest tenth decimal place and outputting the conversion. It's onto DOM manipulation now and it feels like I'm finally getting into the nitty gritty.
 
 **Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
+[Exercise 7](https://github.com/bartbzd/javascript-exercises/blob/main/07_tempConversion/tempConversion.js) <br>
 
 ---
 
