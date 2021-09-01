@@ -412,6 +412,41 @@ At first, I declared variables for the conversions involved within each function
 
 ### Day 33: August 31th, 2021
 
+**Today's Progress:** Learned about the basics of DOM manipulation.
+
+**Thoughts:** Got started on the DOM manipulation lesson, learning everything from targeting nodes with selectors (including different ways to do so) to element creation to appending/removing and altering elements to understanding how events are handled, specifically reading about three different ways it's made possible.
+
+**Links:** <br>
+[DOM Manipulation](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/dom-manipulation) <br>
+
+---
+
+### Day 33: August 31th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 33: August 31th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 33: August 31th, 2021
+
 **Today's Progress:**
 
 **Thoughts:**
