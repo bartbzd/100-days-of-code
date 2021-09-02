@@ -421,19 +421,23 @@ At first, I declared variables for the conversions involved within each function
 
 ---
 
-### Day 33: August 31th, 2021
+### Day 34: September 1st, 2021
 
-**Today's Progress:**
+**Today's Progress:** Completed first exercise from Wes Bos's JavaScript30 program, using DOM manipulation to connect the HTML to JS for a drumkit with files provided.
 
-**Thoughts:**
+Also reviewed cloning repositories and how to change their origin to be able to push my work to GitHub.
+
+**Thoughts:** Got the chance to get my hands dirty with some DOM manipulation by following along a tutorial on how to construct a working drum kit and while it felt challenging, I was happy that I now know how functions work and I'm layering new knowledge on top of what I already learned. There are a lot of moving parts in writing the code and connecting everything together, but I'm going to rewatch the tutorial tomorrow to get a deeper understanding of how and why each piece worked as it did.
+
+Also, up until now, I've been downloading repositories, creating a folder manually and pasting the files in before creating a git repository and linking it to the project, but figured out that I can just clone a repo locally and change the remote origin to my own repo and be able to upload my work there.
 
 **Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
+[JavaScript30 - Drum Kit](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit) <br>
+[Drum Kit VIdeo Tutorial](https://www.youtube.com/watch?v=VuN8qwZoego)
 
 ---
 
-### Day 33: August 31th, 2021
+### Day 35: August 31th, 2021
 
 **Today's Progress:**
 
