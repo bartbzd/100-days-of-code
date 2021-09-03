@@ -437,15 +437,18 @@ Also, up until now, I've been downloading repositories, creating a folder manual
 
 ---
 
-### Day 35: August 31th, 2021
+### Day 35: September 2nd, 2021
 
-**Today's Progress:**
+**Today's Progress:** Rewatched Wes Bos Drum kit exercise, created another branch for my Rock Paper Scissors game and began working on its UI, planning out some HTML structuring and thinking about how I'll manipulate the DOM.
 
-**Thoughts:**
+**Thoughts:** After rewatching the drum kit exercise, I was tasked with creating another branch for my previous RPS game to get used to the workflow of adding in features and successfully created, named and pushed my feature repo to the remote repository on Github. I didn't have as much time as I wanted to spend on beginning my RPS UI, but I did start it and thought about what I want the general layout to look like, putting my HTML skills back to work and I will continue to do more with it tomorrow.
+
+My general plan for this assignment will be to create the structure and styling to get things looking the way I want them to before revisiting the DOM and beginning to connect things, which might require me to go back into my code and reorganize the logic. This will be my first bigger project on my own where I use HTML, CSS and JS all together to create something I can be proud of.
 
 **Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
+[Drum Kit VIdeo Tutorial](https://www.youtube.com/watch?v=VuN8qwZoego) <br>
+[Fork-and-Branch Git Workflow](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
+[DOM Manipulation Practice Steps](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/dom-manipulation)
 
 ---
 
