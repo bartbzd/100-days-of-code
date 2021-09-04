@@ -458,10 +458,10 @@ My general plan for this assignment will be to create the structure and styling 
 
 **Thoughts:** Finalized the structure for my RPS UI to where I'm happy with it and began styling the initial stages. After centering everything, I added a simple background gradient that may change, but I like the color palette and want to incorporate it the best way I can. I also linked a CDN to my html page and imported icons Rock, Paper and Scissors, and placed them into my buttons, resizing the buttons and icons to satisfaction.
 
-I got carried away a bit and wanted to continue working on the project, but also practiced adding a SSH key on my home Windows PC and connected it to my Github, clone the repo to it locally so that now I can work off of either my laptop or the PC. After pushing my day's work, I also updated my local laptop repo on the project, first time using the git pull command and it all worked!
+I got carried away a bit and wanted to continue working on the project, but I also practiced adding a SSH key on my home Windows PC and connected it to my Github before cloning my repo to the PC so that now I can work off of either my laptop or the PC. After pushing my day's work, I also updated my local laptop repo on the project, first time using the git pull command and it all worked!
 
 **Links:** <br>
-[RPS UI - rps-ui branch](https://github.com/bartbzd/rock-paper-scissors/tree/rps-ui) <br>
+[RPS UI - rps-ui branch](https://github.com/bartbzd/rock-paper-scissors/tree/rps-ui)
 
 ---
 
