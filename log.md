@@ -467,13 +467,14 @@ I got carried away a bit and wanted to continue working on the project, but I al
 
 ### Day 37: September 4th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Worked on my Rock Paper Scissors UI (HTML and CSS)
 
-**Thoughts:**
+**Thoughts:** Today I finalized my basic design for my RPS UI. I didn't want to spend too much time designing, but I reorganized some classes/IDs for geeral structing and reviewed the border-radius property to get things looking the way I wanted them to. I also imported a font of choice before removing my original gradient design, optin for 3-4 colors max.
+
+Considering this is only my first real project (HTML/CSS/JS), I want to get back to learning DOM manipulation, so I made a few extra components to try to manipulate them on the screen, like current score for both, player and computer to really get a grasp on the concepts.
 
 **Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
+[RPS UI - rps-ui branch](https://github.com/bartbzd/rock-paper-scissors/tree/rps-ui)
 
 ---
 
