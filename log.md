@@ -478,15 +478,15 @@ Considering this is only my first real project (HTML/CSS/JS), I want to get back
 
 ---
 
-### Day 38: September 5th, 2021
+### Day 38: September 7th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Work on Rock Paper Scissors UI (HTML, CSS and JS)
 
-**Thoughts:**
+**Thoughts:** I got into the nitty gritty of my project today, creating all the DOM components to link my HTML buttons and Round Display to my JavaScript, telling each button what to do, when to do it and why to do it. I had to relook at my code a few times and search online for my answers, but I got to a good stopping point tonight.
 
-**Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
+After linking the buttons to the logic, I got to adding a computer choice display, styling it and trying to get it to work, all before going a step further to show the current round winner via red/orange/green display borders. I originally opted to not have the computer selection show, but after playing the app a few times, I found it beneficial to add one.
+
+Tomorrow, I want to add on a few more pieces as I let my creative process tinker for a bit. I don't want to be stuck on the project for too long, but there are some things I'd like to add to flesh it out.
 
 ---
 
