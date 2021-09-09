@@ -490,19 +490,18 @@ Tomorrow, I want to add on a few more pieces as I let my creative process tinker
 
 ---
 
-### Day 33: August 31th, 2021
+### Day 39: September 8th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Worked on Rock Paper Scissors project and finished it!
 
-**Thoughts:**
+**Thoughts:** DOM manipulation is harder than I imagined with all the moving pieces, particularly when I was trying to create the color borders around each player button selection where it feels very repeated. I couldn't get querySelectorAll or 'this' working on the button group so I made the DOM style.border changes on each button all in IF statements - will have to review those concepts more, but definitely room for improvement here I think. In general, I'm happy with my approach, basic design and pacing on this one. It'll only get more challenging from here.
 
 **Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
+[Rock Paper Scissors Game](https://bartbzd.github.io/rock-paper-scissors/) <br>
 
 ---
 
-### Day 33: August 31th, 2021
+### Day 39: September 9th, 2021
 
 **Today's Progress:**
 
