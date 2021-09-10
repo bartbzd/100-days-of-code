@@ -501,7 +501,78 @@ Tomorrow, I want to add on a few more pieces as I let my creative process tinker
 
 ---
 
-### Day 39: September 9th, 2021
+### Day 40: September 9th, 2021
+
+**Today's Progress:** Reviewed fundamentals of the DOM.
+
+**Thoughts:** Spent the day reviewing much of the concepts I learned over the last few days, some of which being DOM events, best pratices, targeting/selecting nodes and revisiting concepts on how to add/remove a class via the DOM. I want to really saturate myself in learning the DOM and manipulating it because I feel like this is where my expertise will lie in, designing nice websites that do cool things once actions are taken. Tomorrow, I dive into the additional resources provided by my curriculum on the DOM to really solidify what I've learned over this week.
+
+**Links:** <br>
+[DOM Manipulation](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/dom-manipulation) <br>
+
+---
+
+### Day 40: September 9th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 40: September 9th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 40: September 9th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 40: September 9th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 40: September 9th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 40: September 9th, 2021
 
 **Today's Progress:**
 
