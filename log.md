@@ -512,15 +512,17 @@ Tomorrow, I want to add on a few more pieces as I let my creative process tinker
 
 ---
 
-### Day 40: September 9th, 2021
+### Day 41: September 10th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Reviewed the Document Object Model (DOM)
 
-**Thoughts:**
+**Thoughts:** Revisited what I've learned about the DOM, specifically how to navigate it (parent/child/sibling nodes), add nodes in different ways (appendChild/insertBefore/replaceChild) and how to find or create nodes. I want to spend a lot of time on the DOM and more tomorrow because I want to get comfortable with it, particularly handling events and writing functions on how to do so.
+
+Tomorrow, I have a few articles on DOM even handling before reviewing TOP's Knowledge Check on the DOM and finally starting my new project, an Etch-a-Sketch. Here, we, go!
 
 **Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
+[The Document Object Model](https://eloquentjavascript.net/14_dom.html) <br>
+[JavaScript Functions and Helpers - DOM](https://plainjs.com/javascript/)
 
 ---
 
