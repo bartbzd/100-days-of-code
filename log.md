@@ -526,7 +526,29 @@ Tomorrow, I have a few articles on DOM even handling before reviewing TOP's Know
 
 ---
 
-### Day 40: September 9th, 2021
+### Day 42: September 11th, 2021
+
+**Today's Progress:** Checked out TOP's additional resources on The DOM.
+
+**Thoughts:** Without rushing, I wanted to fully absorb the material on the DOM to get a better handle on how it works and how to work with it. After successfully working through TOP's knowledge check on their DOM Manipulation section, I watched Traversy Media's DOM crash course, which was only one video of a four part series, and learned a lot from it. I also watched a video from Wes Bos on Event Capture/Propagation and Bubbling to understand how the eventListeners cycle downward and upward through the DOM tree.
+
+Having done all of that, I worked through W3School's exercises on the DOM before finally intializing a github repo for my Etch-a-Sketch project.
+
+**Links:** <br>
+[Wes Bos - JavaScript Event Capture, Propagation and Bubbling](https://www.youtube.com/watch?v=F1anRyL37lE) <br>
+[Traversy Media - JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+
+---
+
+### Day 43: September 12th, 2021
+
+**Today's Progress:** Started my Etch-a-Sketch project via The Odin Project curriculum
+
+**Thoughts:** Today I wrote the initial HTML structure for my Etch-a-Sketch project, which was simply adding a container and few divs before linking my stylesheet and scripts to the page. I mostly worked in CSS and JavaScript today, styling the general layout with centering elements, importing a font I liked and then building a div grid using JavaScript to generate an X by Y grid on the page inside of my container. Via DOM manipulation, I styled it with pixels for now to make it appear, but already know I'll have to rework things if I want my grid to resize while staying true to container size.
+
+## Can't wait to dig into it more tomorrow!
+
+### Day 44: September 13th, 2021
 
 **Today's Progress:**
 
@@ -538,7 +560,7 @@ Tomorrow, I have a few articles on DOM even handling before reviewing TOP's Know
 
 ---
 
-### Day 40: September 9th, 2021
+### Day 45: September 14th, 2021
 
 **Today's Progress:**
 
@@ -550,31 +572,7 @@ Tomorrow, I have a few articles on DOM even handling before reviewing TOP's Know
 
 ---
 
-### Day 40: September 9th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
-
----
-
-### Day 40: September 9th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
-
----
-
-### Day 40: September 9th, 2021
+### Day 46: September 15th, 2021
 
 **Today's Progress:**
 
