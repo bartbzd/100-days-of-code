@@ -544,23 +544,57 @@ Having done all of that, I worked through W3School's exercises on the DOM before
 
 **Today's Progress:** Started my Etch-a-Sketch project via The Odin Project curriculum
 
-**Thoughts:** Today I wrote the initial HTML structure for my Etch-a-Sketch project, which was simply adding a container and few divs before linking my stylesheet and scripts to the page. I mostly worked in CSS and JavaScript today, styling the general layout with centering elements, importing a font I liked and then building a div grid using JavaScript to generate an X by Y grid on the page inside of my container. Via DOM manipulation, I styled it with pixels for now to make it appear, but already know I'll have to rework things if I want my grid to resize while staying true to container size.
+**Thoughts:** Today I wrote the initial HTML structure for my Etch-a-Sketch project, which was simply adding a container and few divs before linking my stylesheet and scripts to the page. I mostly worked in CSS and JavaScript today, styling the general layout with centering elements, importing a font I liked and then building a div grid using JavaScript to generate an X by Y grid on the page inside of my container via DOM manipulation, I styled it with pixels for now to make it appear, but already know I'll have to rework things if I want my grid to resize while staying true to container size.
 
-## Can't wait to dig into it more tomorrow!
+---
 
 ### Day 44: September 13th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Worked on Etch-a-Sketch project
 
-**Thoughts:**
+**Thoughts:** Today I designed a simple UI for my Etch-a-Sketch project, centering elements and adding a basic background. I also added a slider to later adjust the grid size, using flexbox to position it correctly within the button container.
 
-**Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
+Further, I built onto my playGrid, resetGrid and colorSelection functions as well as making the grid alter sizes within the constraints of the container provided.
 
 ---
 
 ### Day 45: September 14th, 2021
+
+**Today's Progress:** Worked on Etch-a-Sketch project
+
+**Thoughts:** Continued building my app, adding functionality to the grid slider as well as the Random btn, while also re-doing styling on main elements such as adding box-shadows and learning about further CSS properties.
+
+While not functional, I added a color picker to my application and restyled it to fit the needs lf the project, fitting it nicely within the button container.
+
+---
+
+### Day 46: September 15th, 2021
+
+**Today's Progress:** Worked on Etch-a-Sketch project
+
+**Thoughts:** I reworked the slider addEventListener to look for input as opposed to click and after reworking a few variables, was able to achieve on-the-demand changes as a user sliders the slider. I also adjust the color palette for the general UI and decided to play with my app, creating a pixel art rendition of Mario.
+
+---
+
+### Day 47: September 17th, 2021
+
+**Today's Progress:** Worked on Etch-a-Sketch project
+
+**Thoughts:** Continued on my Etch-a-SKetch project, making it responsive on mobile and learning about the appearence property, which solved so many problems I had in the moment. I also added a footer with a link to my github, something I plan on doing moving forward and styled it before writing a README for the overall project.
+
+---
+
+### Day 48: September 18th, 2021
+
+**Today's Progress:** Worked on Etch-a-Sketch project and finished it
+
+**Thoughts:** Reviewed material on dynamically adding or removing classes in JS, particularly with my project's buttons, which reintroduced scope of functions. I also looked into media queries to hide the footer at a certain height/width abd finally finished my Etch-a-Sketch project, adding a few items that were out of scope, but well worth the rabbit hole of learning.
+
+Towards the end, I started learning Objects within JS and will continue with them tommorow. After learning the fundatmentals Part 5 of TOP, it's onto the calculator project!
+
+---
+
+### Day 49: September 19th, 2021
 
 **Today's Progress:**
 
@@ -581,3 +615,4 @@ Having done all of that, I worked through W3School's exercises on the DOM before
 **Links:** <br>
 [x](www.example.com) <br>
 [y](www.example.com)
+v
