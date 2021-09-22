@@ -576,7 +576,7 @@ While not functional, I added a color picker to my application and restyled it t
 
 ---
 
-### Day 47: September 17th, 2021
+### Day 47: September 16th, 2021
 
 **Today's Progress:** Worked on Etch-a-Sketch project
 
@@ -584,7 +584,7 @@ While not functional, I added a color picker to my application and restyled it t
 
 ---
 
-### Day 48: September 18th, 2021
+### Day 48: September 17th, 2021
 
 **Today's Progress:** Worked on Etch-a-Sketch project and finished it
 
@@ -596,6 +596,46 @@ Towards the end, I started learning Objects within JS and will continue with the
 
 ### Day 49: September 19th, 2021
 
+**Today's Progress:** Read through javascript.info's article on Objects
+
+**Thoughts:** Spent today getting acquainted with Objects in JavaScript using one of my favorite JS resources. Objects are the eighth data type I've learned and understand now why it was left for last (more complex/non primitive). I learned through the basics of Objects, how to create, access and delete properties in them.
+
+I also dived into using square brackets vs dot notation, including scenarios on which is better to use when as well as the 'for...in' loop and how ordering works before jumping into the first initial exercises.
+
+**Links:** <br>
+[Objects](https://javascript.info/object) <br>
+
+---
+
+### Day 50: September 20th, 2021
+
+**Today's Progress:** Completed exercises on Objects from the day prior and started Top's Intermediate/Advanced Array section which began with a video from Wes Bos's JS30 series called Array Cardio.
+
+**Thoughts:** I enjoyed today as I solved the rest of the exercises on Objects without much hassle and worked through the JS30 video, adding additional Array methods to my toolkit (they're really powerful). I'm going to rewatch the video again tomorrow with my own data to see how each method works, and perhaps look for some cheatsheets I can easily glance over as I learn the material.
+
+**Links:** <br>
+[TOP Fundamentals Part 5](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-5) <br>
+[JS30 - Array Cardio (1)](https://www.youtube.com/watch?v=HB1ZC7czKRs)
+
+---
+
+### Day 51: September 21st, 2021
+
+**Today's Progress:** Worked through Array Cardio Part 1 and Part 2 as part of JavaScript30.
+
+**Thoughts:** I worked through Part 1 of the Array Cardio exercise on Youtube again and found that using my own data really helped with the concepts, but then I also dived into Part 2 to wrap up what the TOP curriculum had suggested. I'm glad I watched these two videos because I learned a ton (about 8) of new Array methods that I hope to use in the future to stretch my understanding of them.
+
+Methods learned: filter(), map(), sort(), reduce(), some(), every(), find(), findIndex()
+
+All serve different purposes and all can be used in different ways to achieve the desired result of when going through an Array. The videos also used Objects, so they were double dippers in terms of knowledge on more advanced Array methods and Objects in general.
+
+**Links:** <br>
+[JS30 - Array Cardio (2)](https://www.youtube.com/watch?v=QNmRfyNg1lw) <br>
+
+---
+
+### Day 52: September 22nd, 2021
+
 **Today's Progress:**
 
 **Thoughts:**
@@ -606,7 +646,7 @@ Towards the end, I started learning Objects within JS and will continue with the
 
 ---
 
-### Day 46: September 15th, 2021
+### Day 53: September 23rd, 2021
 
 **Today's Progress:**
 
@@ -615,4 +655,39 @@ Towards the end, I started learning Objects within JS and will continue with the
 **Links:** <br>
 [x](www.example.com) <br>
 [y](www.example.com)
-v
+
+---
+
+### Day 54: September 24th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 55: September 25th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 56: September 15th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
