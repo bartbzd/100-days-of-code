@@ -636,18 +636,117 @@ All serve different purposes and all can be used in different ways to achieve th
 
 ### Day 52: September 22nd, 2021
 
-**Today's Progress:**
+**Today's Progress:** Worked on a calculator exercise from TOP's curriculum.
 
-**Thoughts:**
-
-**Links:** <br>
-[x](www.example.com) <br>
-[y](www.example.com)
+**Thoughts:** I felt the calculator exercise was pretty simple, which dealt with writing out functions for the basic operators as well as a few tricky ones like power of and factorials that took more time. I thought this was good practice for my upcoming project, an actual functioning calculator!
 
 ---
 
 ### Day 53: September 23rd, 2021
 
+**Today's Progress:** Worked on palindrome and fibonacci sequence exercises.
+
+**Thoughts:** Today felt more tough as both functions felt pretty tough for me to first, wrap my head around, and then write out. While the palindrome exercise wasn't as hard, a simple series of replace(), split(), reverse() and join(), the fibonacci exercise took longer to complete. After coming up with my own solution and looking up the equation for the sequence, it felt easier, but I was surprised at how little code the solution ended up being.
+
+---
+
+### Day 54: September 26th, 2021
+
+**Today's Progress:** Worked on getTheTitles and findTheOldest exercises.
+
+**Thoughts:**getTheTitles was nothing more than adding an array method to get the solution, but findTheOldest took some time to come up with a solution. I learned a lot doing this exercise and how to select certain items out of an array that made use of condition and additional functions.
+
+---
+
+### Day 55: September 27th, 2021
+
+**Today's Progress:** Reviewed array methods and started Calculator project.
+
+**Thoughts:** Array methods get tricky and I spent another two days learning about them. It helped to add my own data to manipulate and the learning stuck better, but definitely have a lot more to go if I wanted to use them regularly.
+
+I also created the initial project repo and files for my next project, a functioning calculator. Originally after making a seperate function for each operator, I saw people using a JS Object to store all four operators inside, which I opted to use as Objects in general are new to me and this would be a good opportunity to utilize one.
+
+---
+
+### Day 56: September 28th, 2021
+
+**Today's Progress:** Worked on calculator application project
+
+**Thoughts:** Today, I finished writing out the general HTML structure of my calculator, placing the buttons where need be and using CSS to resize/color and in general, styling out my calculator design with something I liked.
+
+I also chose a color palette for my project and am happy with the result.
+
+---
+
+### Day 57: September 29th, 2021
+
+**Today's Progress:** Worked on calculator application project
+
+**Thoughts:** I reviewed the forEach method, querySelectorAll and nodelists to familiarze myself more with arrays and the DOM. I also wrote event listeners for my number and operator buttons as well as writing functions to output my numbers on both, top and bottom displays.
+
+Furthermore, I began writing functions for (+/-) and % buttons to get a headstart on tomorrow.
+
+---
+
+### Day 58: September 30th, 2021
+
+**Today's Progress:** Worked on calculator application project
+
+**Thoughts:** I finished my operator function and made it chain different operators, equaling the two stored numbers after each step, per the instructions asked. I also learned about the data attribute and reworked my HTML to make those data attributes accessible within my JS.
+
+Styling wise, I adjusted the display size and font/font size on my app to get a more desire, overall clean look to my calculator, and wrote functions for the AC button.
+
+---
+
+### Day 59: October 1st, 2021
+
+**Today's Progress:** Worked on calculator application project
+
+**Thoughts:** Continued working on my calculator project and built the (+/-) and % buttons, reviewed toFixed and substring methods, implemented an Error when dividing by 0, added equals and decimal save states, and restructured my functions into arrow functions.
+
+---
+
+### Day 60: October 2nd, 2021
+
+**Today's Progress:** Worked on calculator application project
+
+**Thoughts:** Worked on fixing bugs in my calculator:
+
+- (+/-) btn works properly after (=) btn
+- (+/-) button doesn't round decimals
+- Only one decimal allowed on display
+- Negative Infinity now returns 'Error'
+
+---
+
+### Day 61: October 3rd, 2021
+
+**Today's Progress:** Worked on calculator application project and finished it!
+
+**Thoughts:** Today I completed my calculator project and also changed the equals button to something that stood out more. Overall, I'm happy with the result and got a lot of good feedback on the general design!
+
+---
+
+### Day 62: October 5th, 2021
+
+**Today's Progress:** Took a step back and checked out TOP's new HTML section
+
+**Thoughts:** I worked my way through The Odin Project's revised HTML section that was an amazing refresh on concepts I had already learned, started their new CSS section and already learned a few new properties to try in my next project and added a few VSCode extensions I got from a friend. My favorites from the bunch were Tabnine, CodeSnap and the Helium Icon theme!
+
+---
+
+### Day 63: October 6th, 2021
+
+**Today's Progress:** Finished TOP's new CSS section, learned about the GitLens VSCode extension which I plan to incorporate into my workflor and got started on the introduction to Back-end as part of TOP's curriculum.
+
+**Thoughts:** I really learned a lot of new, neat tricks from the new CSS portion, taking away a refresher on flexbox as well as some new properties to use, like gap.
+
+I also started the introduction to TOP's Back-end section and will spend the day tomorrow reading articles about what goes into Back-end development. Excited to wrap up the foundations portion of this curriculum before I jump into the JS path!
+
+---
+
+### Day 64: October 7th, 2021
+
 **Today's Progress:**
 
 **Thoughts:**
@@ -658,7 +757,7 @@ All serve different purposes and all can be used in different ways to achieve th
 
 ---
 
-### Day 54: September 24th, 2021
+### Day 61: October 3rd, 2021
 
 **Today's Progress:**
 
@@ -670,7 +769,7 @@ All serve different purposes and all can be used in different ways to achieve th
 
 ---
 
-### Day 55: September 25th, 2021
+### Day 61: October 3rd, 2021
 
 **Today's Progress:**
 
@@ -682,7 +781,67 @@ All serve different purposes and all can be used in different ways to achieve th
 
 ---
 
-### Day 56: September 15th, 2021
+### Day 61: October 3rd, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 61: October 3rd, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 61: October 3rd, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 61: October 3rd, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 61: October 3rd, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br>
+[x](www.example.com) <br>
+[y](www.example.com)
+
+---
+
+### Day 61: October 3rd, 2021
 
 **Today's Progress:**
 
