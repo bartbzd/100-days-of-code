@@ -1017,11 +1017,11 @@ This was my first real setback in not being able to accomplish an optional task 
 
 ### Day 99: December 31st, 2021
 
-**Today's Progress:**
+**Today's Progress:** Started learning about 'Classes' in JavaScript.
 
 **Thoughts:**
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+**Links:** <br> [Classes - Basic Syntax](https://javascript.info/class) <br> [Classes - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) <br> [Classes - Pros and Cons](https://rajaraodv.medium.com/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65)
 
 ---
 
