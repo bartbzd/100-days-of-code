@@ -685,7 +685,7 @@ I also started the introduction to TOP's Back-end section and will spend the day
 
 ### Day 64: October 8th, 2021
 
-**Today's Progress:** Worked on TOP's Introduction to Back-end Development
+**Today's Progress:** Worked on TOP's Introduction to Back-end Development.
 
 **Thoughts:** I learned about the difference between front-end development and back-end development in this section. It was more surface material, but a good introduction to what makes up front-end and the back-end. While the front-end code runs in the browser, the back-end is made up a few major parts:
 
@@ -699,13 +699,13 @@ I also started the introduction to TOP's Back-end section and will spend the day
 
 ### Day 65: October 9th, 2021
 
-**Today's Progress:** Completed the first half of TOP, Foundations
+**Today's Progress:** Completed the first half of TOP, Foundations.
 
 **Thoughts:** After reviewing the introduction to back-end, I finished the Foundations path of The Odin Project, which was really exciting! I took some time to reflect on my journey and that I spent the last few months learning about the basics of HTML, CSS and JavaScript. Moving forward, I'll pick a path, Ruby with Ruby on Rails vs JavaScript with Node & Express.
 
 ---
 
-### Day 66: October 10th, 2021
+### Day 66: October 11th, 2021
 
 **Today's Progress:** Chose the JavaScript/Node/Express path with TOP.
 
@@ -715,23 +715,23 @@ I also started the introduction to TOP's Back-end section and will spend the day
 
 ---
 
-### Day 61: October 3rd, 2021
+### Day 67: October 12th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Reviewed differences between arror and expression functions and completed TOP's code organization intro.
 
-**Thoughts:**
+**Thoughts:** I enjoyed this section of the curriculum that dove into how to organize code. It was merely an introduction, but I learned a lot about objects, object constructors, factory functions, the module pattern, ES6 modules and classes.
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+Tomorrow, I start learning more about objects/object constructors.
 
 ---
 
-### Day 61: October 3rd, 2021
+### Day 68: October 13th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Covered a lot of material on prototype inheritance and constructors.
 
-**Thoughts:**
+**Thoughts:** This section was about using objects as a design pattern, which simply involves grouping things inside of objects. I also learned about object constructors, or instances where I'd otherwise have to us duplicate code. Constructors help with just that, ensuring you're not duplicating code and instead, reusing a 'base' object whenever creating a new instance of something.
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+**Links:** <br> [Objects and Object Constructors](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/objects-and-object-constructors)
 
 ---
 
