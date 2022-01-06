@@ -747,7 +747,7 @@ Tomorrow, I start learning more about objects/object constructors.
 
 ### Day 70: October 16th, 2021
 
-**Today's Progress:** Continued and finished TOP's Object/Object constructor section
+**Today's Progress:** Continued and finished TOP's Object/Object constructor section.
 
 **Thoughts:** Took my time with this section because it was rather daunting at first. I learned what Object.create does and how to use it effectively, reviewed prototypal inheritance and finished the section happy with my progress.
 
@@ -755,7 +755,7 @@ Tomorrow, I start learning more about objects/object constructors.
 
 ### Day 71: October 18th, 2021
 
-**Today's Progress:** Started on my Library project
+**Today's Progress:** Started on my Library project.
 
 **Thoughts:** Today I initialized the repo for my Library project and created the files before implementing my reusable footer that I created for simplicity. I also created a Book() constructor, first time doing so and had to review. I finished up the day with filling in my array with some dummy text to be able to work with it.
 
@@ -763,47 +763,43 @@ Tomorrow, I start learning more about objects/object constructors.
 
 ### Day 72: October 19th, 2021
 
-**Today's Progress:** Worked on my Library project
+**Today's Progress:** Worked on my Library project.
 
 **Thoughts:** Spent my time today on the JavaScript side, adding functions that pull in data from user input and then add the input into my array. Then, I wrote a loop that displays my book array on the page before working on creating a form for user input to add the title/author/pages. I wrapped up by creating a submit button that submits the form to the array.
 
 The project appeared simpler on paper, but I am having fun figuring things out at my pace and understand all the moving pieces.
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+---
+
+### Day 73: October 20th, 2021
+
+**Today's Progress:** Reviewed array methods & DOM manipulation and worked on my Library project.
+
+**Thoughts:** I started today by reviewing various array methods and how to manipulate them, specifically pushing new books to my array and using DOM manipulation with forEach to display each book on the page. Day 72 was a bit of a challenge, so I wanted to make sure I reviewed the material I worked on to really absorb what I was doing.
 
 ---
 
-### Day 72: October 19th, 2021
+### Day 74: October 21st, 2021
 
-**Today's Progress:**
+**Today's Progress:** Reviewed data-attributes and worked on my Library project.
 
-**Thoughts:**
+**Thoughts:** After learning about the importance of data-attributes, I spent some time reviewing how to use them effectively. I was planning on using them to add specific IDs to each book via index, but realized my approach would change each book's ID whenever I deleted a book from my array. This
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: October 19th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+It was a challenging day, but I learned some neat tricks.
 
 ---
 
-### Day 72: October 19th, 2021
+### Day 75: October 24th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Worked on my Library Project
 
-**Thoughts:**
+**Thoughts:** I added a function that toggled book read/unread status and then I finally figured out to link my deleteBtn function to the correct book in my array.
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+It felt good being able to finally delete specific books out of the array and re-rendering the remaining books onto the page!
 
 ---
 
-### Day 72: October 19th, 2021
+### Day 76: October 19th, 2021
 
 **Today's Progress:**
 
