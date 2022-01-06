@@ -1019,7 +1019,9 @@ This was my first real setback in not being able to accomplish an optional task 
 
 **Today's Progress:** Started learning about 'Classes' in JavaScript.
 
-**Thoughts:**
+**Thoughts:** Classes seem like another approach to organizing your code, but I can also see why the material mentions 'synactic sugar'. Classes in JavaScript don't behave the same way they do in other languages and by being added, in a way hide what is really happening with an objects prototype behind the scenes.
+
+I want to review this section an additional time to really grasp the difference between using classes and other prototype methods.
 
 **Links:** <br> [Classes - Basic Syntax](https://javascript.info/class) <br> [Classes - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) <br> [Classes - Pros and Cons](https://rajaraodv.medium.com/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65)
 
