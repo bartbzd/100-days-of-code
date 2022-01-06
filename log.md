@@ -973,53 +973,49 @@ I also continued altering the design on my UI and got a good base for it that I 
 
 **Today's Progress:** Worked on my Tic Tac Toe Project.
 
-**Thoughts:**
+**Thoughts:** Today I added a modal to change player name as well as a function that updates the player tab from user input, finished building a function that checks for who won the game and figured out how to style the winning cells out of the array as well as the player display.
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 95: November 18th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+After a few days of trying to grasp ways to look for a winner, I successfully was able to implement it with the help of a few array methods!
 
 ---
 
-### Day 96: November 18th, 2021
+### Day 95: December 19th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Worked on my Tic Tac Toe Project.
 
-**Thoughts:**
+**Thoughts:** Today I worked on one of the harder parts of my project by adding a function that allows an AI bot to take a random turn on the gameboard and then also created a Versus AI bot option to my UI when the page first loads.
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 97: November 18th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+I want to play around with when this modal appears, but I am happy with getting it all to work properly!
 
 ---
 
-### Day 98: November 18th, 2021
+### Day 96: December 20th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Worked on my Tic Tac Toe Project.
 
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+**Thoughts:** Spent the day revisiting my Versus Player/Versus AI modal option and built an additional button that allows you to change the game mode without reloading the page. I also added my reusable footer template that I've used for a few projects and figured out how to add a Timeout function on bot turn to respect my arrow marker animations.
 
 ---
 
-### Day 99: November 18th, 2021
+### Day 97: December 23rd, 2021
+
+**Today's Progress:** Learned about minimax algorithm to try to implement into TTT project.
+
+**Thoughts:** After a day of reading and trying to grasp the minimax algorithm implementation, I started with a simple function after following a tutorial on it. I successfully got a few console.logs to display what I wanted to, but that's as far as I got. Will continue to try with this alogrithm tomorrow.
+
+---
+
+### Day 98: December 24th, 2021
+
+**Today's Progress:** Worked on and finished by Tic Tac Toe Project!
+
+**Thoughts:** After trying various different approaches to implementing the minimax algorithm, I was unable to successfully implement it into my project. Following the tutorial to a T, I wasn't getting the results I wanted and often crashed my application.
+
+This was my first real setback in not being able to accomplish an optional task on the project guidelines, but I'm happy I tried it and got to learn about it.
+
+---
+
+### Day 99: December 31st, 2021
 
 **Today's Progress:**
 
