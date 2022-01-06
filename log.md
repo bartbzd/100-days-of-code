@@ -735,7 +735,45 @@ Tomorrow, I start learning more about objects/object constructors.
 
 ---
 
-### Day 61: October 3rd, 2021
+### Day 69: October 15th, 2021
+
+**Today's Progress:** Dove deeper into prototypes in JavaScript, 'this' and finished some Object exercises.
+
+**Thoughts:** It took me some type to really wrap my head around prototypes and how they relate to objects. In basic form, prototypes are another object that the original object inherits from and gives the original object access to the prototype's methods and properties.
+
+**Links:** <br> [Objects and Object Constructors](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/objects-and-object-constructors)
+
+---
+
+### Day 70: October 16th, 2021
+
+**Today's Progress:** Continued and finished TOP's Object/Object constructor section
+
+**Thoughts:** Took my time with this section because it was rather daunting at first. I learned what Object.create does and how to use it effectively, reviewed prototypal inheritance and finished the section happy with my progress.
+
+---
+
+### Day 71: October 18th, 2021
+
+**Today's Progress:** Started on my Library project
+
+**Thoughts:** Today I initialized the repo for my Library project and created the files before implementing my reusable footer that I created for simplicity. I also created a Book() constructor, first time doing so and had to review. I finished up the day with filling in my array with some dummy text to be able to work with it.
+
+---
+
+### Day 72: October 19th, 2021
+
+**Today's Progress:** Worked on my Library project
+
+**Thoughts:** Spent my time today on the JavaScript side, adding functions that pull in data from user input and then add the input into my array. Then, I wrote a loop that displays my book array on the page before working on creating a form for user input to add the title/author/pages. I wrapped up by creating a submit button that submits the form to the array.
+
+The project appeared simpler on paper, but I am having fun figuring things out at my pace and understand all the moving pieces.
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
 
 **Today's Progress:**
 
@@ -745,7 +783,7 @@ Tomorrow, I start learning more about objects/object constructors.
 
 ---
 
-### Day 61: October 3rd, 2021
+### Day 72: October 19th, 2021
 
 **Today's Progress:**
 
@@ -755,7 +793,7 @@ Tomorrow, I start learning more about objects/object constructors.
 
 ---
 
-### Day 61: October 3rd, 2021
+### Day 72: October 19th, 2021
 
 **Today's Progress:**
 
@@ -765,7 +803,107 @@ Tomorrow, I start learning more about objects/object constructors.
 
 ---
 
-### Day 61: October 3rd, 2021
+### Day 72: October 19th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: October 19th, 2021
 
 **Today's Progress:**
 
