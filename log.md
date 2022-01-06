@@ -867,7 +867,7 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ### Day 83: November 14th, 2021
 
-**Today's Progress:** Started TOP's Introduction to Factory Functions
+**Today's Progress:** Started TOP's Introduction to Factory Functions.
 
 **Thoughts:** After finishing my Library project, I moved on reading the differences between constructors and factory functions before starting on material that introduced my to factory functions. I also reviewed event listeners, particularly event targeting, bubbling, capturing and propagation. I may have to revisit this section though!
 
@@ -877,7 +877,7 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ### Day 84: November 15th, 2021
 
-**Today's Progress:** Continued with TOP's Introduction to Factory Functions
+**Today's Progress:** Continued with TOP's Introduction to Factory Functions.
 
 **Thoughts:** I ventured further in the lesson, which reviewed scope in JavaScript. Topics we dove into were global/local scope, namespace, lexical scope and scope chain.
 
@@ -885,7 +885,7 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ### Day 85: November 16th, 2021
 
-**Today's Progress:** Continued with TOP's Introduction to Factory Functions
+**Today's Progress:** Continued with TOP's Introduction to Factory Functions.
 
 **Thoughts:** The end of this section got rather confusing so I had spend some time rereading the material a few times, but I covered private variables, inheritance, closures and how they relate to public scope, and using Object.assign(). This is yet another section I'll have to revisit to fully understand some of the concepts, but it was fun learning about how things work.
 
@@ -893,17 +893,93 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ---
 
-### Day 72: November 18th, 2021
+### Day 86: November 18th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Started learning about the Module Pattern and IIFEs.
 
-**Thoughts:**
+**Thoughts:** Began reading about the Module Pattern and how to create modules as well as IIFEs (Immediately Invoked Function Expressions). I also reviewed examples with using the module pattern correctly and started a YouTube series on Modular JavaScript.
 
-**Links:** <br> [JavaScript Scope Tutorial](https://www.youtube.com/watch?v=SBwoFkRjZvE) <br> [Everything you wanted to know about JavaScript scope](https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope)
+**Links:** <br> [Introduction to IIFEs](http://adripofjavascript.com/blog/drips/an-introduction-to-iffes-immediately-invoked-function-expressions.html) <br> [Modular JavaScript YT Series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
 
 ---
 
-### Day 72: November 18th, 2021
+### Day 87: November 18th, 2021
+
+**Today's Progress:** Finished section on Module Pattern
+
+**Thoughts:** I wrapped up the Modular JavaScript YT series today and have found a new interest for coding.
+
+All the projects up until now were built in the public scope, but seeing the ways one can organize code into modules, it was neat to see the possibilities. It practically opens up a whole new world of organization that I didn't know existed, but very much makes sense when building larger projects!
+
+---
+
+### Day 88: November 22nd, 2021
+
+**Today's Progress:** Worked on the Factory Function/Module Knowledge Check
+
+**Thoughts:** Today was more or less a review of the previous day topics that covered factory functions and the module pattern. It covered private/public function usefulness, common bugs with constructors, explanation of namespacing, how to use IIFEs and returning objects with factory methods.
+
+It was a rather challenging day with lots of topics thrown at me, but I believe I understand the basics of each.
+
+Tomorrow, I start my Tic Tac Toe project!
+
+---
+
+### Day 89: November 23rd, 2021
+
+**Today's Progress:** Started my Tic Tac Toe Project.
+
+**Thoughts:** I spent my hours studying by initializing my TTT repo, added my HTML/CSS/JS files and writing out some general pseudocode functions to think about how I want to approach this project. Lots of setup today.
+
+---
+
+### Day 90: November 27th, 2021
+
+**Today's Progress:** Reviewed Factory Functions and worked on TTT Project.
+
+**Thoughts:** I began today by reviewing factory functions (requirement for TTT project) and built a simple player factory function that returned a name object to be used later.
+
+In hindsight, I could've also added a specific player marker to the the factory function, but I didn't think of that until I was much later into the project and got it to work with a simple function I reused.
+
+---
+
+### Day 91: November 30th, 2021
+
+**Today's Progress:** Worked on my Tic Tac Toe Project.
+
+**Thoughts:** Today was a shorter day, but I spent some time on building a UI for my project and got started on my gameBoard module, a module for storing the gameboard, reseting the gameboard and getting the updated gameboard.
+
+---
+
+### Day 92: December 2nd, 2021
+
+**Today's Progress:** Worked on my Tic Tac Toe Project.
+
+**Thoughts:** Worked on organizing my modules and factory functions a bit before playing around with forEach and adding click events to the gameboard. Players can now add their marker to the board and behind the scenes, the gameboard updates the DOM and swaps turns.
+
+I also continued altering the design on my UI and got a good base for it that I am happy with.
+
+---
+
+### Day 93: December 8th, 2021
+
+**Today's Progress:** Worked on my Tic Tac Toe Project.
+
+**Thoughts:** Continued playing around with the design for my project by adding gradients to the title/Reset button(I got a cool hover effect to work that swapped the gradient to the opposite side, and I want to learn about this!), adding arrow displays for player turn and styling the header/player tabs before working on breaking down some of my larger functions into smaller ones for readability.
+
+---
+
+### Day 94: December 14th, 2021
+
+**Today's Progress:** Worked on my Tic Tac Toe Project.
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 95: November 18th, 2021
 
 **Today's Progress:**
 
@@ -913,7 +989,7 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ---
 
-### Day 72: November 18th, 2021
+### Day 96: November 18th, 2021
 
 **Today's Progress:**
 
@@ -923,7 +999,7 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ---
 
-### Day 72: November 18th, 2021
+### Day 97: November 18th, 2021
 
 **Today's Progress:**
 
@@ -933,7 +1009,7 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ---
 
-### Day 72: November 18th, 2021
+### Day 98: November 18th, 2021
 
 **Today's Progress:**
 
@@ -943,7 +1019,7 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ---
 
-### Day 72: November 18th, 2021
+### Day 99: November 18th, 2021
 
 **Today's Progress:**
 
@@ -953,87 +1029,7 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ---
 
-### Day 72: November 18th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: November 18th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: November 18th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: November 18th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: November 18th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: November 18th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: November 18th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: November 18th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: November 18th, 2021
+### Day 100: November 18th, 2021
 
 **Today's Progress:**
 
