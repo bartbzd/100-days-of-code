@@ -875,7 +875,35 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ---
 
-### Day 84: October 19th, 2021
+### Day 84: November 15th, 2021
+
+**Today's Progress:** Continued with TOP's Introduction to Factory Functions
+
+**Thoughts:** I ventured further in the lesson, which reviewed scope in JavaScript. Topics we dove into were global/local scope, namespace, lexical scope and scope chain.
+
+---
+
+### Day 85: November 16th, 2021
+
+**Today's Progress:** Continued with TOP's Introduction to Factory Functions
+
+**Thoughts:** The end of this section got rather confusing so I had spend some time rereading the material a few times, but I covered private variables, inheritance, closures and how they relate to public scope, and using Object.assign(). This is yet another section I'll have to revisit to fully understand some of the concepts, but it was fun learning about how things work.
+
+**Links:** <br> [JavaScript Scope Tutorial](https://www.youtube.com/watch?v=SBwoFkRjZvE) <br> [Everything you wanted to know about JavaScript scope](https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [JavaScript Scope Tutorial](https://www.youtube.com/watch?v=SBwoFkRjZvE) <br> [Everything you wanted to know about JavaScript scope](https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope)
+
+---
+
+### Day 72: November 18th, 2021
 
 **Today's Progress:**
 
@@ -885,7 +913,7 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ---
 
-### Day 85: October 19th, 2021
+### Day 72: November 18th, 2021
 
 **Today's Progress:**
 
@@ -895,7 +923,117 @@ I'm starting to learn that iOS can be a little pesky and needs some added attent
 
 ---
 
-### Day 72: October 19th, 2021
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+
+---
+
+### Day 72: November 18th, 2021
 
 **Today's Progress:**
 
