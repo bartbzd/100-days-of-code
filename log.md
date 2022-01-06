@@ -845,7 +845,37 @@ Another productive day!
 
 ---
 
-### Day 81: November 3rd, 2021
+### Day 81: November 9th, 2021
+
+**Today's Progress:** Worked on my Library Project.
+
+**Thoughts:** Continued work on my Library Project by refactoring some CSS, adding reusable CSS variables, adjusting form animations on modal exit and debugging certain UI portions that appeared weird on iOS. I also redid my media queries a bit and reviewed material on them!
+
+I'm starting to learn that iOS can be a little pesky and needs some added attention to make things appear correctly. Particularly, certain element font colors NEED to be specified or they appear blue.
+
+---
+
+### Day 82: November 12th, 2021
+
+**Today's Progress:** Worked on and finished by Library Project!
+
+**Thoughts:** I wrapped up my Library Project today and was quite proud with the result. I spent a lot of time on the UI with this project, saving majority of it for last, and I experimented with a lot of ideas to get it the way I wanted it to look.
+
+**Links:** <br> [Tweet Preview of Project](https://twitter.com/bartbzd/status/1459041929530859543)
+
+---
+
+### Day 83: November 14th, 2021
+
+**Today's Progress:** Started TOP's Introduction to Factory Functions
+
+**Thoughts:** After finishing my Library project, I moved on reading the differences between constructors and factory functions before starting on material that introduced my to factory functions. I also reviewed event listeners, particularly event targeting, bubbling, capturing and propagation. I may have to revisit this section though!
+
+**Links:** <br> [Factory Functions and The Module Pattern](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/factory-functions-and-the-module-pattern)
+
+---
+
+### Day 84: October 19th, 2021
 
 **Today's Progress:**
 
@@ -855,37 +885,7 @@ Another productive day!
 
 ---
 
-### Day 72: October 19th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: October 19th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: October 19th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: October 19th, 2021
+### Day 85: October 19th, 2021
 
 **Today's Progress:**
 
