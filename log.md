@@ -799,57 +799,53 @@ It felt good being able to finally delete specific books out of the array and re
 
 ---
 
-### Day 76: October 19th, 2021
+### Day 76: October 26th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Worked on my Library project.
 
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+**Thoughts:** Coming along nicely, I worked on linking my toggleReadStatus() to my books using the knowledge I learned with prototypes. I spent the rest of the day trying to organize and separate my JS functions between DOM and Library logic, and fixed my Event Listeners for my deleteBtn & readBtn.
 
 ---
 
-### Day 72: October 19th, 2021
+### Day 77: October 27th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Learned about localStorage API and how to implement it.
 
-**Thoughts:**
+**Thoughts:** I had a lot of fun learning about localStorage, how to use JSON and how to .stringify my book array. Seeing my books re-appear on page reload was a nice addition to the project and I can see why it's useful. It took some time deciphering the docs, but I was able to implement it in the end.
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: October 19th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+I finished the day about styling the header and book grid before picking out & linking a Google font to my project.
 
 ---
 
-### Day 72: October 19th, 2021
+### Day 78: October 30th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Worked on my Library Project.
 
-**Thoughts:**
+**Thoughts:** I spent the day on my favorite part of development, CSS and generally building out the first draft of my UI. I moved my book counter tab to the bottom, added a border shadow to my header, animated the book cards on hover, tried out a book title gradient, made the book grid responsive and learned about rotate() in CSS!
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
-
----
-
-### Day 72: October 19th, 2021
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+It was a productive day and I learned about some new CSS properties.
 
 ---
 
-### Day 72: October 19th, 2021
+### Day 79: November 1st, 2021
+
+**Today's Progress:** Worked on my Library Project, particularly the UI.
+
+**Thoughts:** Continued working on portions of my Library UI, from resizing book cards and spacing out elements, adding smooth transition effects, adding a button bar background, designing my form modal and I changed my book card buttons into icons.
+
+Another productive day!
+
+---
+
+### Day 80: November 5th, 2021
+
+**Today's Progress:** Reviewed animation FX and worked on my Library Project.
+
+**Thoughts:** Today I learned a bit more about animations in CSS, particularly using transform and transition. I also added a swipe up animation to my modal as well as background blur to clean up my UI and make the experience look better.
+
+---
+
+### Day 81: November 3rd, 2021
 
 **Today's Progress:**
 
