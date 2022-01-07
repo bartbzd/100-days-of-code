@@ -1027,10 +1027,12 @@ I want to review this section an additional time to really grasp the difference 
 
 ---
 
-### Day 100: November 18th, 2021
+### Day 100: January 6th, 2021
 
-**Today's Progress:**
+**Today's Progress:** Continued learning about Classes and reviewed plain constructors/factory functions/module pattern.
 
-**Thoughts:**
+**Thoughts:** Spent the day continuing my learning classes, syntax, how they differ from other prototype methods and a few neat tricks like binding methods to the actual new object rather than the prototype.
 
-**Links:** <br> [x](www.example.com) <br> [y](www.example.com)
+This also marks my last day with this challenge and I've learned a lot. Looking back, I finished projects, learned about HTML/CSS, got side tracked with learning more advanced CSS (animations) and dove deep into JavaScript. I still have a lot to learn, but this was a good precursor to my adventure, the possibilities and what I've been able to accomplish.
+
+This is just the beginning!
